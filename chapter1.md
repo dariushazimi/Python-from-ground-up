@@ -4,13 +4,13 @@ description : Here is the description of the course
 attachments :
   slides_link : https://s3.amazonaws.com/assets.datacamp.com/course/teach/slides_example.pdf
 
---- type:VideoExercise lang:python xp: skills: key:227d189dc4
+--- type:VideoExercise lang:python xp: skills: key:00081e28cd
 ## <<<TITLE>>> 
 
 
 *** =video_link
 
---- type:NormalExercise lang:python xp: skills: key:8b140d8a3e
+--- type:NormalExercise lang:python xp: skills: key:c4e9395f01
 ## <<<TITLE>>> 
 
 
@@ -20,7 +20,7 @@ attachments :
 
 *** =pre_exercise_code
 ```{python}
-
+print("this is a test")
 ```
 
 *** =sample_code
