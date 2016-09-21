@@ -4,6 +4,40 @@ description : Here is the description of the course
 attachments :
   slides_link : https://s3.amazonaws.com/assets.datacamp.com/course/teach/slides_example.pdf
 
+--- type:VideoExercise lang:python xp: skills: key:227d189dc4
+## <<<TITLE>>> 
+
+
+*** =video_link
+
+--- type:NormalExercise lang:python xp: skills: key:8b140d8a3e
+## <<<TITLE>>> 
+
+
+*** =instructions
+
+*** =hint
+
+*** =pre_exercise_code
+```{python}
+
+```
+
+*** =sample_code
+```{python}
+
+```
+
+*** =solution
+```{python}
+
+```
+
+*** =sct
+```{python}
+
+```
+
 --- type:MultipleChoiceExercise lang:python xp:50 skills:1 key:7bc2ee35fe
 ## A really bad movie
 
