@@ -1,6 +1,6 @@
 ---
-title       : Test title
-description : Here is the description of the course
+title       : Get up and running with Python
+description : Here is the description of the course. Install python and use virutal environment.
 attachments :
   slides_link : https://s3.amazonaws.com/assets.datacamp.com/course/teach/slides_example.pdf
 
